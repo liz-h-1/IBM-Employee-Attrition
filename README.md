@@ -1,6 +1,6 @@
-#                                                  IBM-Employee-Attrition
+# IBM-Employee-Attrition
 
-## Update
+## Updates
   ### 27/4/2020 Cloud
     Work:
       1) Data-Preprocessed (Without handling the imbalance problem) 
