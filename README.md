@@ -9,7 +9,7 @@
     Thing(s) to Know:
       1) Can import the "Pre-Processed Data.csv" directly
 
-## Other Works
+## Other Missions
   1) Handle the data imbalance problem (adjust data from "Pre-Processed Data.csv")
   2) Work on other approaches
   3) Write report
