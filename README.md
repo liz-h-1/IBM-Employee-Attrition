@@ -14,6 +14,11 @@
       1) Added normalization, correlation 
       2) Showed class imbalance, and boxplot
       
+  ### 14/04/2020 Jim 
+    Work:
+      1) Logistic Regression Model
+      2) 'Logistic regression.ipynb' is added
+      
 ## Other Missions
   1) Handle the data imbalance problem (adjust data from "Pre-Processed Data.csv")
   2) Work on other approaches
